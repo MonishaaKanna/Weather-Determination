@@ -1,7 +1,3 @@
-# Weather-Determination
-
-
-
 Step 1 — Project Setup
 
 A project folder named `weather-dashboard` was created. Inside the folder, three files were created:
